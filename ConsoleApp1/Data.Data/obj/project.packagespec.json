@@ -15,7 +15,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "A:\\LearnEntityFramework\\ConsoleApp1\\Data.Domain\\Data.Domain.csproj": {
+            "projectPath": "A:\\LearnEntityFramework\\ConsoleApp1\\Data.Domain\\Data.Domain.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -26,6 +30,24 @@
   },
   "frameworks": {
     "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[5.0.0-preview.4.20220.10, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[5.0.0-preview.4.20220.10, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+          "target": "Package",
+          "version": "[5.0.0-preview.4.20220.10, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+          "target": "Package",
+          "version": "[2.0.0-preview1-final, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",

@@ -9,6 +9,7 @@
       "Data.Data/1.0.0": {
         "dependencies": {
           "Data.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore.Design": "5.0.0-preview.4.20220.10",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.0-preview.4.20220.10",
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "5.0.0-preview.4.20220.10",
           "Microsoft.EntityFrameworkCore.Sqlite.Design": "2.0.0-preview1-final"
@@ -17,6 +18,7 @@
           "Data.Data.dll": {}
         }
       },
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Data.Sqlite.Core/5.0.0-preview.4.20220.10": {
         "dependencies": {
           "SQLitePCLRaw.core": "2.0.2"
@@ -63,6 +65,18 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/5.0.0-preview.4.20220.10": {},
+      "Microsoft.EntityFrameworkCore.Design/5.0.0-preview.4.20220.10": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.0-preview.4.20220.10"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.22010"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/5.0.0-preview.4.20220.10": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.0-preview.4.20220.10"
@@ -419,6 +433,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
     "Microsoft.Data.Sqlite.Core/5.0.0-preview.4.20220.10": {
       "type": "package",
       "serviceable": true,
@@ -453,6 +474,13 @@
       "sha512": "sha512-OyN40MMOAEDEI/Y3k408YSKCoZGTMTvygxP9k9+zqy5QnXb9t0dSYjbS942sNQRnZYV7vzEwhfu3mvXqYnXF7Q==",
       "path": "microsoft.entityframeworkcore.analyzers/5.0.0-preview.4.20220.10",
       "hashPath": "microsoft.entityframeworkcore.analyzers.5.0.0-preview.4.20220.10.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Design/5.0.0-preview.4.20220.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UnrPcawjzdViRkVl59KgbqMYTLpwFO6KKT4YLCBdys1NX5twfetinwPX8tfOyoBxt23NKnMl+gYWCfWFLn+96w==",
+      "path": "microsoft.entityframeworkcore.design/5.0.0-preview.4.20220.10",
+      "hashPath": "microsoft.entityframeworkcore.design.5.0.0-preview.4.20220.10.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/5.0.0-preview.4.20220.10": {
       "type": "package",
