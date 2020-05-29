@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "+VD+uj+PwipulfyB7regqNDk3RDZN/ekBMRYe7eeyhn7q1DmyYgw7hLkVCtuGAzb9r6CPIa5jNwHQ4hpG6rUrA==",
+  "success": true,
+  "projectFilePath": "A:\\LearnEntityFramework\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.0-preview.4.20220.10\\microsoft.data.sqlite.core.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\5.0.0-preview.2.20160.6\\microsoft.dotnet.platformabstractions.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.abstractions.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.analyzers.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.design.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.relational.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\2.0.0-preview1-final\\microsoft.entityframeworkcore.relational.design.2.0.0-preview1-final.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.sqlite.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.sqlite.core.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.design\\2.0.0-preview1-final\\microsoft.entityframeworkcore.sqlite.design.2.0.0-preview1-final.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.caching.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-preview.2.20160.3\\microsoft.extensions.caching.memory.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.2.20160.3\\microsoft.extensions.configuration.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.configuration.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0-preview.2.20160.3\\microsoft.extensions.configuration.binder.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0-preview.2-runtime.20160.6\\microsoft.extensions.dependencymodel.5.0.0-preview.2-runtime.20160.6.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.2.20160.3\\microsoft.extensions.logging.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.logging.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.2.20160.3\\microsoft.extensions.options.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.2.20160.3\\microsoft.extensions.primitives.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.packaging.tools\\1.0.0-preview1-25301-01\\microsoft.packaging.tools.1.0.0-preview1-25301-01.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\netstandard.library\\2.0.0-preview1-25301-01\\netstandard.library.2.0.0-preview1-25301-01.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.2.20160.6\\system.collections.immutable.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.2.20160.6\\system.componentmodel.annotations.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.2.20160.6\\system.diagnostics.diagnosticsource.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.2.20160.6\\system.runtime.compilerservices.unsafe.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Primitives 2.0.0-preview1-final depends on System.Runtime.CompilerServices.Unsafe (>= 4.4.0-preview1-25219-04) but System.Runtime.CompilerServices.Unsafe 4.4.0-preview1-25219-04 was not found. An approximate best match of System.Runtime.CompilerServices.Unsafe 4.4.0-preview1-25305-02 was resolved.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

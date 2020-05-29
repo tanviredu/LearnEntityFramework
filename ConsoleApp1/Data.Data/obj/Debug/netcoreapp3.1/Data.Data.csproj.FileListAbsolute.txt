@@ -1,0 +1,12 @@
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\bin\Debug\netcoreapp3.1\Data.Data.deps.json
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\bin\Debug\netcoreapp3.1\Data.Data.dll
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\bin\Debug\netcoreapp3.1\Data.Data.pdb
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\bin\Debug\netcoreapp3.1\Data.Domain.dll
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\bin\Debug\netcoreapp3.1\Data.Domain.pdb
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\obj\Debug\netcoreapp3.1\Data.Data.csprojAssemblyReference.cache
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\obj\Debug\netcoreapp3.1\Data.Data.csproj.CoreCompileInputs.cache
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\obj\Debug\netcoreapp3.1\Data.Data.AssemblyInfoInputs.cache
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\obj\Debug\netcoreapp3.1\Data.Data.AssemblyInfo.cs
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\obj\Debug\netcoreapp3.1\Data.Data.csproj.CopyComplete
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\obj\Debug\netcoreapp3.1\Data.Data.dll
+A:\LearnEntityFramework\ConsoleApp1\Data.Data\obj\Debug\netcoreapp3.1\Data.Data.pdb
