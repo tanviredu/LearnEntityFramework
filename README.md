@@ -1,2 +1,0 @@
-# LearnEntityFramework
-www.learnentityframeworkcore.com
