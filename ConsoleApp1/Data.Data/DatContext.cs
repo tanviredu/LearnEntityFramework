@@ -30,7 +30,7 @@ namespace Data.Data
                 .HasMany(c => c.Books)
                 .WithOne(a => a.Author);
 
-        // you an do the reverse way too    
+            // you an do the reverse way too    
             
             // this is the many to many relationship
             modelBuilder.Entity<BookCategory>().HasKey(s => new {s.BookId, s.CategoryId});
