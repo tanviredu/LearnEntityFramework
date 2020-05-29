@@ -4,6 +4,12 @@ namespace Data.Domain
 {
     public class Book
     {
+        public Book()
+        {
+            // init the list of the category
+            Categories = new List<Category>();
+        }
+
         public int BookId { get; set; }
         public string Title { get; set; }
         /// <summary>
@@ -15,6 +21,8 @@ namespace Data.Domain
         
         /// <summary>
         /// this List category go many to many
+        /// here we declare the list we need to
+        /// init the list in the constructor
         /// </summary>
         public List<Category> Categories { get; set; }
 
